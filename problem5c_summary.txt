@@ -1,0 +1,28 @@
+PROBLEM 5C: STREAMING DATA ANALYSIS SUMMARY
+======================================================================
+
+SCENARIO A: 100,000 values/second for 1 hour
+Sample size: 100,000
+Mean        : 1.39e+08
+Median      : 1.39e+08
+Mode        : 6.32e+02
+Min         : 6.32e+02
+Max         : 2.78e+08
+Std         : 8.02e+07
+P25         : 6.95e+07
+P75         : 2.08e+08
+Iqr         : 1.39e+08
+
+======================================================================
+
+SCENARIO B: 60,000,000 values/minute for 1 hour
+Sample size: 100,000
+Mean        : 4.97e+08
+Median      : 4.95e+08
+Mode        : 1.46e+04
+Min         : 1.46e+04
+Max         : 9.97e+08
+Std         : 2.88e+08
+P25         : 2.47e+08
+P75         : 7.46e+08
+Iqr         : 5.00e+08
